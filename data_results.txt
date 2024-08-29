@@ -1,0 +1,14 @@
+predictive_single:
+RMSE: 457.08402760316284, MAE: 447.3846679359024
+
+predicitve_all:
+RMSE: 4195166.335249479, MAE: 4189995.0893008234
+
+cluster_sinlge:
+
+cluster_all:
+
+pca_single:
+Explained Variance Ratio: [0.5325596 0.4674404]
+pca_all:
+Explained Variance Ratio: [0.60852671 0.39147329]
